@@ -12,7 +12,7 @@ Also, you can use this Project as you wish, be for study, be for make improvemen
 It is free!
 
 ## Give a Star! :star:
-If you liked the project or if Equinox helped you, please give a star ;)
+If you liked the project, please give a star ;)
 
 ## Technologies implemented:
 
