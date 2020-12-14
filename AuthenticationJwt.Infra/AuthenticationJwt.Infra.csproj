@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuthenticationJwt.Core\AuthenticationJwt.Core.csproj" />
+    <ProjectReference Include="..\AuthenticationJwt.Domain\AuthenticationJwt.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
